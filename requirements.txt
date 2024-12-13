@@ -67,3 +67,4 @@ urllib3==2.2.3
 webencodings==0.5.1
 yarl==1.18.0
 yfinance==0.2.50
+statsmodels==0.14.1
