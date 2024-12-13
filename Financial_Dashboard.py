@@ -644,7 +644,7 @@ def main():
             st.info("Please enter at least one valid stock ticker to begin analysis.")
     else:
         st.info("Please enter stock tickers in the sidebar to begin analysis.")
-    # Add this at the end of main() function, before the final else statement
+    
     add_footer()
 #<-------------------------------------------------->
 def add_footer():
