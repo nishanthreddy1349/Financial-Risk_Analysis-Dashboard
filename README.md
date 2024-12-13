@@ -20,4 +20,4 @@ A comprehensive financial analysis tool that provides:
 3. View analysis and optimizations
 
 ## Live Demo
-[Click here to access the dashboard](your-streamlit-url-will-go-here)
+[Click here to access the dashboard](https://financial-riskanalysis-dashboard-fp9ausrya4wz6pstct4fbs.streamlit.app)
